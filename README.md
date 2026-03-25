@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Michael<br>Fullstack Developer 🚀<br><br>👨‍💻 About Me<br><br>+ 🔭 I’m currently working as a Fullstack Developer<br>+ 🌱 I’m currently learning React & React Native<br>+ 💼 I’m open to freelance opportunities<br>+ ⚡ Fun fact: I love sharing knowledge and learning something new every day
+Hi 👋, I'm Michael<br>Fullstack Developer 🚀<br><br>👨‍💻 About Me<br><br> + 🔭 I’m currently working as a Fullstack Developer <br> + 🌱 I’m currently learning React & React Native <br> + 💼 I’m open to freelance opportunities <br> + ⚡ Fun fact: I love sharing knowledge and learning something new every day
 
 
 ## 🌐 Socials:
